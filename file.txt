@@ -17,3 +17,5 @@ anotherline
 
 new line at bottom
 
+
+new line in master at bottom
